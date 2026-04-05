@@ -98,7 +98,9 @@ If you have any questions, concerns, or requests regarding this Privacy Policy o
 **Developer**: motade
 **Email**: motade.ext@gmail.com
 
-**Extension URL**: https://chromewebstore.google.com/detail/dafehpfnhmelfpipgoekidcjckmfbocc/utm_source=privacy-policy
+**Extension URL**: 
+chrome: https://chromewebstore.google.com/detail/dafehpfnhmelfpipgoekidcjckmfbocc/utm_source=privacy-policy
+firefox: https://addons.mozilla.org/firefox/addon/tempnumber/?utm_source=privacy-policy
 
 **Response Timeframe**
 We are committed to responding to all privacy-related inquiries and requests within a reasonable timeframe, typically within thirty (30) days of receipt. For GDPR-related requests, we will respond within one (1) month, with the possibility of a two-month extension for complex requests.
