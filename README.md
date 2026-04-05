@@ -98,8 +98,10 @@ If you have any questions, concerns, or requests regarding this Privacy Policy o
 **Developer**: motade
 **Email**: motade.ext@gmail.com
 
-**Extension URL**\n
-chrome: https://chromewebstore.google.com/detail/dafehpfnhmelfpipgoekidcjckmfbocc/utm_source=privacy-policy \n
+**Extension URL**
+
+chrome: https://chromewebstore.google.com/detail/dafehpfnhmelfpipgoekidcjckmfbocc/utm_source=privacy-policy
+
 firefox: https://addons.mozilla.org/firefox/addon/tempnumber/?utm_source=privacy-policy
 
 **Response Timeframe**
